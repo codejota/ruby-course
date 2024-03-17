@@ -8,3 +8,6 @@ if ARGV.size > 0
 else
   puts "Você deve informar o nome do arquivo a ser aberto. Ex: ruby app.rb teste.txt"
 end
+
+
+
